@@ -187,29 +187,6 @@ DoodleAI/
 └── doodle_ai_output.png # Sample output (generated on save)
 ```
 
----
-
-## 🎓 What This Project Demonstrates
-
-**Computer Vision Skills:**
-- Image manipulation with OpenCV
-- Edge detection algorithms
-- Morphological operations
-- Real-time image processing
-
-**Software Engineering:**
-- Event-driven architecture (Tkinter callbacks)
-- Clean class design (single responsibility)
-- Efficient data structures
-- User experience design
-
-**Algorithm Design:**
-- Adaptive noise injection
-- Multi-mode processing pipelines
-- Performance optimization
-
----
-
 ## 📄 License
 
 MIT License - Free for educational and personal use
@@ -217,3 +194,4 @@ MIT License - Free for educational and personal use
 ---
 
 **Built with:** Python, OpenCV, NumPy, and creativity ✨
+
